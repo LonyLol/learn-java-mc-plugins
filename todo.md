@@ -13,13 +13,13 @@ Concepts learned:
 
 ## Bookmark plugin
 The user can type in chat one of 3 commands:
-- bookmark add <name>
+- bookmark add \<name\>
 - bookmark list
-- bookmark go <name>
+- bookmark go \<name\>
 
-**bookmark add** adds the current player position to the list under the name given.\
+**bookmark add** adds the current player position to the list under the given name.\
 **bookmark list** prints the list of saved bookamrks.\
-**bookmark go** teleports the player to the location saved under the name given.
+**bookmark go** teleports the player to the location saved under the given name.
 
 Concepts learned:
 - Read from input (from chat).
